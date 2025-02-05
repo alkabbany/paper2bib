@@ -1,5 +1,5 @@
 # Paper2Bib
-Paper2Bib is a tool for constructing the Bibtex record of an article's meta data fetched from CrossRef using the article's title only.
+Paper2Bib is a tool for constructing the Bibtex record from an article's meta data fetched from CrossRef using the article's title only.
 
 ---
 
